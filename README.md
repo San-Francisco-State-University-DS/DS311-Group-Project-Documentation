@@ -1,7 +1,7 @@
 # DS311-Group-Project-Documentation
 
 ## Objectives
-This group project is designed to bring first hand data-driven project experience to students. Students should be applying what they've learned in this course to explore the dataset of their choice. Students need to collaborate with their group memebers in this project for building their project management skills.  I recommend students to treat this project as the fundation of their profile project for future interview. The more you contribute to the project, the better you can explain it in your interview. 
+This group project is designed to bring first hand data-driven project experience to students. Students should be applying what they've learned in this course to explore the dataset which is chosen by the team. Students need to collaborate with their group memebers in this project and learn the project management skills.  I recommend students to treat this project as their profile project for the future job interviews. The more you contribute to the project, the better you can explain it in your job interview. 
 
 ## Dataset
 Students are provided with 4 datasets from different industries as stated below.  Each dataset can be used to answer some specific business questions.  Each group needs to choose one out of the four to explore, analyze, and present to the class. You can find the datasets and the full description in this repository.
