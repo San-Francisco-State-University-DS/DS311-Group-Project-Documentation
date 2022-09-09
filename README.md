@@ -7,9 +7,9 @@ This group project is designed to bring first hand data-driven project experienc
 Students are provided with 4 datasets from different industries as stated below.  Each dataset can be used to answer some specific business questions.  Each group needs to choose one out of the four to explore, analyze, and complete the story-telling presentation. You can find the datasets and the full description from this repository.
 
 1. Dognition Subscription-Based Web Service Data (dognition folder)
-2. Data Drive Industry Salary Data (salary folder)
-3. FIFA World Cup 2022 Data (sport folder)
-4. Car for Sale Data (sale folder)
+2. Data-Drive Industry Salary Data (salary folder)
+3. FIFA World Cup Data (sport folder)
+4. Online Cars Sale Marketplace Data (sale folder)
 
 ## Technologies & Tools
 Students are expected to perform the EDA analysis or other scientific analysis using the technologies or tools covered in this course.  They include, but not limited to, Python, SQL, R, Git, Tableau, Markdown, Business Dashboard, Story-Telling, etc. There is no requirement on what technology must be applied in your analytic process, but at least one of the three main tools (Python, R, or Tableau) should be applied.  
@@ -28,4 +28,4 @@ Each team will have to do a short 15 - 20 minutes presentation.  The purpose fo 
 The final project report and presentation material should be pushed to the project repository on GitHub.  To submit your final project, each team needs to submit only one GitHub repository link on iLearn.  Do not submit any data file, notebook file, script file, image file, markdown file, document file, etc on iLearn.  All you need to submit is the repository link of the project.
 
 ## References
-- Will be uploading some project reports from the previous semester to this repository for reference.
+- Two project reports from the previous semester are included in this repository for your reference.
